@@ -1,4 +1,4 @@
-# Libft
+# libft
 
 This was my approach to the libft project at school 42.
 
